@@ -12,6 +12,7 @@ const App = () => {
       <FlatCards/>
       <ElevatedCards/>
       <FancyCard/>
+      <ContactList/>
       <ActionCard/>
       </ScrollView>
     </SafeAreaView>
